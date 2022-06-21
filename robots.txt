@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://theultimateabsol.github.io/catacombs/sitemap.xml
+Sitemap: https://catacombs.wonder-tag.online/sitemap.xml
